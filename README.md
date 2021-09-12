@@ -1,5 +1,6 @@
 # MSERLicensePlateRecognition
 Digital Image Processing course final project  
+
 For users, run 'main.m' or 'LPRec_exported.m' (with GUI) directly in MATLAB, 'test1.jpg' is used for demonstration.  
 -----------------------------------------------------------------------------------------------------------------------
 m files description:
