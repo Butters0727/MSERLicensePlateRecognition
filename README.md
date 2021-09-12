@@ -22,7 +22,7 @@ other files description:
 |  ----  | ----  |
 | *main.m    | Main function |
 |test1.jpg              |                  Test image  |
-|theta1.mat         |                    |Non-chinese characters neural network patameter 1  |
+|theta1.mat         |                    Non-chinese characters neural network patameter 1  |
 |theta2.mat             |                Non-chinese characters neural network patameter 2 | 
 |hanzi_theta1.mat            |       Chinese characters neural network patameter 1  |
 |hanzi_theta2.mat       |            Chinese characters neural network patameter 2|  
