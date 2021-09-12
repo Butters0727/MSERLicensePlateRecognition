@@ -4,7 +4,10 @@ Digital Image Processing course final project
 For users, run 'main.m' or 'LPRec_exported.m' (with GUI) directly in MATLAB, 'test1.jpg' is used for demonstration.  
 -----------------------------------------------------------------------------------------------------------------------
 m files description:
-|  ----  | ----  |
+| 左对齐 | 右对齐 | 居中对齐 |
+| :-----| ----: | :----: |
+| 单元格 | 单元格 | 单元格 |
+| 单元格 | 单元格 | 单元格 |
 |*main.m                |                Main function  |
 *LPRex_exported.m               Integrated file with methods and GUI  
 lp_detect.m                           License plate region detection  
